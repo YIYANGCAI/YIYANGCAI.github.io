@@ -21,7 +21,7 @@ redirect_from:
     <div style="flex: 50%; padding: 10px;">
         <h3>Foundation Cures Personalization: Improving Personalized Models' Prompt Consistency via Hidden Foundation Knowledge</h3>
         <p> <strong>Yiyang Cai</strong>, Zhengkai Jiang, Yulong Liu, Chunyang Jiang, Wei Xue, Wenhan Luo, Yike Guo <br>
-            <strong>Technical Report, 2024</strong> <br>
+            <strong>Technical Report, 2025</strong> <br>
             <a href="https://arxiv.org/pdf/2411.15277" target="_blank"><strong>[arxiv]</strong></a>
             <a href="https://github.com/YIYANGCAI/FreeCure" target="_blank"><strong>[code]</strong></a>
             <a href="https://freecure.github.io/" target="_blank"><strong>[page]</strong></a>
