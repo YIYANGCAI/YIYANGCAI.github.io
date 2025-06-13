@@ -31,7 +31,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 50%; padding: 10px;">
-        <image src="../assets/multimedia/autoround-method.png" width="320"></img>
+        <img src="../assets/multimedia/autoround-method.png" width="320"></img>
     </div>
     <div style="flex: 50%; padding: 10px;">
         <h3>Optimize weight rounding via signed gradient descent for the quantization of llms</h3>
@@ -45,7 +45,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 50%; padding: 10px;">
-        <image src="../assets/multimedia/diff-quant.png" width="320"></img>
+        <img src="../assets/multimedia/diff-quant.png" width="320"></img>
     </div>
     <div style="flex: 50%; padding: 10px;">
         <h3>Effective Quantization for Diffusion Models on CPUs</h3>
@@ -60,7 +60,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 50%; padding: 10px;">
-        <image src="../assets/multimedia/teq-method.png" width="320"></img>
+        <img src="../assets/multimedia/teq-method.png" width="320"></img>
     </div>
     <div style="flex: 50%; padding: 10px;">
         <h3>TEQ: Trainable equivalent transformation for quantization of LLMs</h3>
@@ -75,7 +75,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 50%; padding: 10px;">
-        <image src="../assets/multimedia/fsfont-method.png" width="320"></img>
+        <img src="../assets/multimedia/fsfont-method.png" width="320"></img>
     </div>
     <div style="flex: 50%; padding: 10px;">
         <h3>Few-shot font generation by learning fine-grained local styles</h3>
