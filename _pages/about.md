@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi there 👋"
+title: "Cai Yiyang - Home page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am CAI Yiyang (蔡逸扬), a Ph.D. student of Hong Kong University of Science and Technology. I am supervised by Prof. [GUO Yike](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and Prof. [LUO Wenhan](https://whluo.github.io/). My research interests include computer vision and generative models. My main focusing topic is about **personalized content generation**. 
+👋 Hi there! I am CAI Yiyang (蔡逸扬), a Ph.D. student of Hong Kong University of Science and Technology. I am supervised by Prof. [GUO Yike](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=yike-guo-yikeguo) and Prof. [LUO Wenhan](https://whluo.github.io/). My research interests include computer vision and generative models. My main focusing topic is about **personalized content generation**. 
 
 📝 Publication
 ======
