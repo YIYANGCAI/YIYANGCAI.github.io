@@ -6,6 +6,7 @@ main:
     conference: The 39th Annual Conference on Neural Information Processing Systems
     pdf: https://arxiv.org/pdf/2411.15277
     code: https://github.com/YIYANGCAI/FreeCure
+    page: https://freecure.github.io/
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/papers/freecure.png
     notes: Poster
@@ -14,9 +15,9 @@ main:
     authors: Chunyang Jiang, Chi-Min Chan, <strong>Yiyang Cai</strong>, Yulong Liu, Wei Xue, Yike Guo
     conference_short: EMNLP 2025
     conference: The 2025 Conference on Empirical Methods in Natural Language Processing
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: https://arxiv.org/abs/2505.19715
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Main
     image: ./assets/img/papers/lwf.jpg
@@ -27,7 +28,7 @@ main:
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing
     pdf: https://arxiv.org/pdf/2309.05516
     code: https://github.com/intel/auto-round
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Findings
     image: ./assets/img/papers/autoround.png
