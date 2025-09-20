@@ -1,22 +1,63 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
+  - title: "Foundation Cures Personalization: Improving Personalized Models' Prompt Consistency via Hidden Foundation Knowledge"
+    authors: <strong>Yiyang Cai</strong>, Zhengkai Jiang, Yulong Liu, Chunyang Jiang, Wei Xue, Yike Guo, Wenhan Luo
+    conference_short: NeurIPS 2025
+    conference: The Thirty-Ninth Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2411.15277
+    code: https://github.com/YIYANGCAI/FreeCure
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/freecure.jpg
+    notes: Poster
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  - title: "Graceful Forgetting in Generative Language Models"
+    authors: Chunyang Jiang, Chi-Min Chan, <strong>Yiyang Cai</strong>, Yulong Liu, Wei Xue, Yike Guo
+    conference_short: EMNLP 2025
+    conference: The 2025 Conference on Empirical Methods in Natural Language Processing
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    notes: Main Conference
+    image: ./assets/img/graceful_forgetting.png
+
+  - title: "Optimize Weight Rounding via Signed Gradient Descent for the Quantization of LLMs"
+    authors: Wenhua Cheng, Weiwei Zhang, Haihao Shen, <strong>Yiyang Cai</strong>, Xin He, Kaokao Lv, Yi Liu
+    conference_short: EMNLP 2024
+    conference: The 2024 Conference on Empirical Methods in Natural Language Processing
+    pdf: https://arxiv.org/pdf/2309.05516
+    code: https://github.com/intel/auto-round
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Findings
+    image: ./assets/img/autoround-method.png
+
+  - title: "Effective Quantization for Diffusion Models on CPUs"
+    authors: Hanwen Chang, Haihao Shen, <strong>Yiyang Cai</strong>, Xinyu Ye, Zhenzhong Xu, Wenhua Cheng, Kaokao Lv, et al.
+    conference_short: NeurIPS 2023 Workshop on Diffusion Models.
+    conference: The Thirty-Seventh Annual Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2311.16133
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Findings
+    image: ./assets/img/diff-quant.png
+
+  - title: "TEQ: Trainable Equivalent Transformation for Quantization of LLMs"
+    authors: Wenhua Cheng, <strong>Yiyang Cai</strong>, Kaokao Lv, Haihao Shen
+    conference_short: Arxiv
+    conference: Arxiv, 2023.
+    pdf: https://arxiv.org/pdf/2310.10944
+    code: https://github.com/intel/neural-compressor/tree/master/neural_compressor/adaptor/torch_utils
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Findings
+    image: ./assets/img/teq-method.png
+
+  - title: "Few-shot Font Generation by Learning Fine-grained Local Styles"
+    authors: Licheng Tang*, <strong>Yiyang Cai*</strong>, Jiaming Liu, Zhibin Hong, Mingming Gong, Minhu Fan, Junyu Han, et al. ('*' means equal contribution)
+    conference_short: CVPR 2022
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
+    pdf: https://arxiv.org/abs/2205.09965
+    code: https://github.com/tlc121/FsFont
+    # notes: Findings
+    image: ./assets/img/fsfont-method.png
