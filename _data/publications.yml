@@ -34,7 +34,7 @@ main:
 
   - title: "Effective Quantization for Diffusion Models on CPUs"
     authors: Hanwen Chang, Haihao Shen, <strong>Yiyang Cai</strong>, Xinyu Ye, Zhenzhong Xu, Wenhua Cheng, Kaokao Lv, et al.
-    conference_short: NeurIPS 2023 Workshop on Diffusion Models.
+    conference_short: NeurIPS 2023
     conference: The 37th Annual Conference on Neural Information Processing Systems, Workshop of Diffusion Models, 2023
     pdf: https://arxiv.org/pdf/2311.16133
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
