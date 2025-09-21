@@ -17,7 +17,6 @@ Prior to my doctorate studies, I worked at Intel Inc. as a machine learning engi
 
 - **[Sep. 2025]** 🎉 One paper about facial personalization is accepted to NeurIPS 2025.
 - **[Aug. 2025]** 🎉 One paper about self-improving of LLMs is accepted to EMNLP 2025 as a main conference paper.
-- **[Jul. 2025]** 🚀 Start internship at ByteDance Inc. 
 - **[Jul. 2025]** 🚀 My personal webpage is now active. 
 
 {% include_relative _includes/publications.md %}
