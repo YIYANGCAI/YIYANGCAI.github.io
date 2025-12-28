@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-👋 Hi there! I am CAI Yiyang (蔡逸扬), a Ph.D. student of Hong Kong University of Science and Technology. I am supervised by Prof. LUO Wenhan and Prof. GUO Yike. My research interests include computer vision and generative models. My main focusing topic is about ID-preserving content generation (personalization). 
+👋 Hi there! I am CAI Yiyang (蔡逸扬), a second-year Ph.D. student of Hong Kong University of Science and Technology. I am supervised by Prof. LUO Wenhan and Prof. GUO Yike. My research interests include computer vision and generative models. My main focusing topic is about ID-preserving content generation (personalization). 
 
 Prior to my doctorate studies, I worked at Intel Inc. as a machine learning engineer. I obtained my master and bachelor degree from University of California, Berkeley and Beijing University of Aeronautics and Astronautics (Beihang University) respectively. 
 
