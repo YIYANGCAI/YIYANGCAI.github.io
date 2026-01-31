@@ -1,0 +1,8 @@
+@inproceedings{
+cai2025foundation,
+title={Foundation Cures Personalization: Improving Personalized Models{\textquoteright} Prompt Consistency via Hidden Foundation Knowledge},
+author={Yiyang Cai and Zhengkai Jiang and Yulong Liu and Chunyang Jiang and Wei Xue and Yike Guo and Wenhan Luo},
+booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+year={2025},
+url={https://openreview.net/forum?id=KQ9KCDS4zp}
+}
