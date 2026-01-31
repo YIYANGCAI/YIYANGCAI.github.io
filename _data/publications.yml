@@ -14,7 +14,7 @@ main:
     pdf: https://arxiv.org/pdf/2411.15277
     code: https://github.com/YIYANGCAI/FreeCure
     page: https://yiyangcai.github.io/freecure-aigc.github.io/
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://github.com/YIYANGCAI/YIYANGCAI.github.io/blob/main/_data/freecure.txt
     image: ./assets/img/papers/freecure.png
     notes: Poster
 
