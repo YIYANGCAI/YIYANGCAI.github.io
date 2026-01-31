@@ -1,5 +1,12 @@
 main:
 
+  - title: "Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks"
+    authors: Chunyang Jiang, Yonggang Zhang, <strong>Yiyang Cai</strong>, Chi-Min Chan, Yulong Liu, Mingming Chen, Wei Xue, Yike Guo
+    conference_short: ICLR 2026
+    conference: The 14th International Conference on Learning Representations
+    pdf: https://arxiv.org/pdf/2509.23067
+    image: ./assets/img/papers/freecure.png
+
   - title: "Foundation Cures Personalization: Improving Personalized Models' Prompt Consistency via Hidden Foundation Knowledge"
     authors: <strong>Yiyang Cai</strong>, Zhengkai Jiang, Yulong Liu, Chunyang Jiang, Wei Xue, Yike Guo, Wenhan Luo
     conference_short: NeurIPS 2025
@@ -8,7 +15,7 @@ main:
     code: https://github.com/YIYANGCAI/FreeCure
     page: https://yiyangcai.github.io/freecure-aigc.github.io/
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/papers/freecure.png
+    image: ./assets/img/papers/svsi.png
     notes: Poster
 
   - title: "Graceful Forgetting in Generative Language Models"
