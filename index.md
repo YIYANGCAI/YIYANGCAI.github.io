@@ -15,8 +15,9 @@ Prior to my doctorate studies, I worked at Intel Inc. as a machine learning engi
 
 ## News
 
-- **[Sep. 2025]** 🎉 One paper about facial personalization is accepted to NeurIPS 2025.
-- **[Aug. 2025]** 🎉 One paper about self-improving of LLMs is accepted to EMNLP 2025 as a main conference paper.
+- **[Jan. 2026]** 🎉 SVSI is accepted to ICLR 2026.
+- **[Sep. 2025]** 🎉 FreeCure is accepted to NeurIPS 2025.
+- **[Aug. 2025]** 🎉 LWF is accepted to EMNLP 2025 as a main conference paper.
 - **[Jul. 2025]** 🚀 My personal webpage is now active. 
 
 {% include_relative _includes/publications.md %}
