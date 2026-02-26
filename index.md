@@ -15,6 +15,7 @@ Prior to my doctorate studies, I worked at Intel Inc. as a machine learning engi
 
 ## News
 
+- **[Feb. 2026]** 🎉 ROITok is accepted to CVPR 2026.
 - **[Jan. 2026]** 🎉 SVSI is accepted to ICLR 2026.
 - **[Sep. 2025]** 🎉 FreeCure is accepted to NeurIPS 2025.
 - **[Aug. 2025]** 🎉 LWF is accepted to EMNLP 2025 as a main conference paper.
