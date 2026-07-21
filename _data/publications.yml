@@ -18,7 +18,7 @@ main:
     page: https://cn-makers.github.io/DomainShuttle/
     image: assets/gif/domainshuttle.gif
   
-  - title: "Modeling the Brain's Grammar: ROI-Guided fMRI Pretraining for Transferable"
+  - title: "Modeling the Brain's Grammar: ROI-Guided fMRI Pretraining for Transferable and Interpretable Vision Decoding"
     authors: Yulong Liu, Hua Xu, <strong>Yiyang Cai</strong>, Chunyang Jiang, Sirui Han, Yike Guo
     conference_short: CVPR 2026
     conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026
