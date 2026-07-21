@@ -25,6 +25,13 @@ main:
     pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_Modeling_the_Brains_Grammar_ROI-Guided_fMRI_Pretraining_for_Transferable_and_CVPR_2026_paper.pdf
     image: assets/img/roitok.png
 
+  - title: "Semantic Voting: A Self-Evaluation-Free Approach for Efficient LLM Self-Improvement on Unverifiable Open-ended Tasks"
+    authors: Chunyang Jiang, Yonggang Zhang, <strong>Yiyang Cai</strong>, Chi-Min Chan, Yulong Liu, Mingming Chen, Wei Xue, Yike Guo
+    conference_short: ICLR 2026
+    conference: The 14th International Conference on Learning Representations
+    pdf: https://arxiv.org/pdf/2509.23067
+    image: ./assets/img/papers/svsi.png
+
   - title: "Foundation Cures Personalization: Improving Personalized Models' Prompt Consistency via Hidden Foundation Knowledge"
     authors: <strong>Yiyang Cai</strong>, Zhengkai Jiang, Yulong Liu, Chunyang Jiang, Wei Xue, Yike Guo, Wenhan Luo
     conference_short: NeurIPS 2025
