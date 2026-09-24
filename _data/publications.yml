@@ -1,8 +1,8 @@
 main:
   - title: "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enhancement"
     authors: <strong>Yiyang Cai *</strong>, Nan Chen *, Rongchang Xie, Junwen Pan, Chunyang Jiang, Cheng Chen, Wen Zhou, Zhenbang Sun, Wei Xue, Wenhan Luo, Yike Guo
-    conference_short: Preprint
-    conference: Technical Report
+    conference_short: NeurIPS 2026
+    conference: The 40th Annual Conference on Neural Information Processing Systems
     pdf: https://arxiv.org/abs/2607.18217
     code: https://github.com/YIYANGCAI/HOMIE
     page: https://yiyangcai.github.io/homie-page.github.io/
