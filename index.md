@@ -15,6 +15,7 @@ Prior to my doctorate studies, I worked at Intel Inc. as a machine learning engi
 
 ## News
 
+- **[Sep. 2026]** 🎉 HOMIE is accepted to NeurIPS 2026.
 - **[Feb. 2026]** 🎉 ROITok is accepted to CVPR 2026.
 - **[Jan. 2026]** 🎉 SVSI is accepted to ICLR 2026.
 - **[Sep. 2025]** 🎉 FreeCure is accepted to NeurIPS 2025.
