@@ -7,6 +7,7 @@ main:
     code: https://github.com/YIYANGCAI/HOMIE
     page: https://yiyangcai.github.io/homie-page.github.io/
     image: assets/gif/homie.gif
+    notes: Poster
 
 
   - title: "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation"
