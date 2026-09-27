@@ -8,6 +8,8 @@ layout: homepage
 
 Prior to my doctorate studies, I worked at Intel Inc. as a machine learning engineer. I obtained my master and bachelor degree from University of California, Berkeley and Beijing University of Aeronautics and Astronautics (Beihang University) respectively. 
 
+I am currently focusing my research on **interactive video generation models and world models**.
+
 ## Research Interests
 
 - **Computer Vision:** Image/Video Generation
