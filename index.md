@@ -17,6 +17,7 @@ I am currently focusing my research on **interactive video generation models and
 
 ## News
 
+- **[Oct. 2026]** 🏅 Recognized as **top reviewer** by NeurIPS 2026 Committee
 - **[Sep. 2026]** 🎉 HOMIE is accepted to NeurIPS 2026.
 - **[Feb. 2026]** 🎉 ROITok is accepted to CVPR 2026.
 - **[Jan. 2026]** 🎉 SVSI is accepted to ICLR 2026.
