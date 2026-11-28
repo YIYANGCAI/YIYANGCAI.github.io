@@ -7,7 +7,7 @@ main:
     code: https://github.com/YIYANGCAI/HOMIE
     page: https://yiyangcai.github.io/homie-page.github.io/
     image: assets/gif/homie.gif
-    notes: Poster
+    notes:
 
 
   - title: "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation"
@@ -42,7 +42,7 @@ main:
     page: https://yiyangcai.github.io/freecure-aigc.github.io/
     bibtex: https://github.com/YIYANGCAI/YIYANGCAI.github.io/blob/main/_data/freecure.txt
     image: assets/gif/freecure_neurips25.gif
-    notes: Poster
+    notes:
 
   - title: "Graceful Forgetting in Generative Language Models"
     authors: Chunyang Jiang, Chi-Min Chan, <strong>Yiyang Cai</strong>, Yulong Liu, Wei Xue, Yike Guo
@@ -63,7 +63,7 @@ main:
     code: https://github.com/intel/auto-round
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Findings
+    notes:
     image: ./assets/img/papers/autoround.png
 
   - title: "Effective Quantization for Diffusion Models on CPUs"
